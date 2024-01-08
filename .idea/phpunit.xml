@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/3-Singleton/exercises-singleton/tests" />
+        <option value="$PROJECT_DIR$/2-Factory/4-Ship/exercises-factory-method-2/tests" />
+        <option value="$PROJECT_DIR$/BaseProject/tests" />
+      </list>
+    </option>
+  </component>
+</project>

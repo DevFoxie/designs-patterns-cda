@@ -1,9 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Tests;
 
 use PHPUnit\Framework\TestCase;
-use App\Builder\MySQLQuery;
+use App\BuilderTwo\MySQLQuery;
 
 final class SQLBuilderTest extends TestCase {
 
